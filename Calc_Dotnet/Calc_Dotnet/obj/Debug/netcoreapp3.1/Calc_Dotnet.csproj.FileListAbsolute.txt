@@ -1,0 +1,14 @@
+C:\Users\bruno\Desktop\dotnet\Calc_Dotnet\Calc_Dotnet\bin\Debug\netcoreapp3.1\Calc_Dotnet.exe
+C:\Users\bruno\Desktop\dotnet\Calc_Dotnet\Calc_Dotnet\bin\Debug\netcoreapp3.1\Calc_Dotnet.deps.json
+C:\Users\bruno\Desktop\dotnet\Calc_Dotnet\Calc_Dotnet\bin\Debug\netcoreapp3.1\Calc_Dotnet.runtimeconfig.json
+C:\Users\bruno\Desktop\dotnet\Calc_Dotnet\Calc_Dotnet\bin\Debug\netcoreapp3.1\Calc_Dotnet.runtimeconfig.dev.json
+C:\Users\bruno\Desktop\dotnet\Calc_Dotnet\Calc_Dotnet\bin\Debug\netcoreapp3.1\Calc_Dotnet.dll
+C:\Users\bruno\Desktop\dotnet\Calc_Dotnet\Calc_Dotnet\bin\Debug\netcoreapp3.1\Calc_Dotnet.pdb
+C:\Users\bruno\Desktop\dotnet\Calc_Dotnet\Calc_Dotnet\obj\Debug\netcoreapp3.1\Calc_Dotnet.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\dotnet\Calc_Dotnet\Calc_Dotnet\obj\Debug\netcoreapp3.1\Calc_Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\dotnet\Calc_Dotnet\Calc_Dotnet\obj\Debug\netcoreapp3.1\Calc_Dotnet.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\dotnet\Calc_Dotnet\Calc_Dotnet\obj\Debug\netcoreapp3.1\Calc_Dotnet.AssemblyInfo.cs
+C:\Users\bruno\Desktop\dotnet\Calc_Dotnet\Calc_Dotnet\obj\Debug\netcoreapp3.1\Calc_Dotnet.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\dotnet\Calc_Dotnet\Calc_Dotnet\obj\Debug\netcoreapp3.1\Calc_Dotnet.dll
+C:\Users\bruno\Desktop\dotnet\Calc_Dotnet\Calc_Dotnet\obj\Debug\netcoreapp3.1\Calc_Dotnet.pdb
+C:\Users\bruno\Desktop\dotnet\Calc_Dotnet\Calc_Dotnet\obj\Debug\netcoreapp3.1\Calc_Dotnet.genruntimeconfig.cache
